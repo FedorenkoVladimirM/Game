@@ -1,0 +1,31 @@
+@media (min-width: 768px) {
+  .center {
+    padding-left: calc(50% - 600px);
+    padding-right: calc(50% - 600px);
+  }
+  .top {
+    height: 1024px;
+  }
+  .top_content {
+    padding-top: 216px;
+  }
+  .top_title {
+    font-size: 64px;
+    padding-right: 531px;
+    padding-bottom: 32px;
+  }
+  .top_subtitle {
+    font-size: 18px;
+    line-height: 32px;
+    padding-right: 736px;
+    padding-bottom: 44px;
+  }
+  .top_subtitle_word {
+    font-size: 18px;
+    line-height: 32px;
+  }
+  .for_item_numbergames {
+    padding-left: 32px;
+    padding-bottom: 32px;
+  }
+}/*# sourceMappingURL=computer.css.map */

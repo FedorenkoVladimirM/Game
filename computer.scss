@@ -1,0 +1,46 @@
+@media (min-width: 768px) {
+    .center {
+        padding-left: calc(50% - 600px);
+        padding-right: calc(50% - 600px);
+    }
+
+    .top {
+        height: 1024px;
+
+        &_content {
+            padding-top: 216px;
+        }
+
+        &_title {
+            font-size: 64px;
+            padding-right: 531px;
+            padding-bottom: 32px;
+        }
+
+        &_subtitle {
+            font-size: 18px;
+            line-height: 32px;
+            padding-right: 736px;
+            padding-bottom: 44px;
+
+            &_word {
+                font-size: 18px;
+                line-height: 32px;
+            }
+        }
+
+    }
+
+
+
+    .for {
+        &_item {
+            &_numbergames {
+                padding-left: 32px;
+                padding-bottom: 32px;
+            }
+        }
+    }
+
+
+}
